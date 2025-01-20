@@ -2,4 +2,3 @@ Usługi inżynierskie
 Audyty energetyczne
 Świadectwa charakterystyki energetycznej
 Przeglądy okresowe budynków
-Odbiory techniczne od deweloperów
